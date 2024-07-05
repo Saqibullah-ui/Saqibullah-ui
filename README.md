@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong focus on 
 I am actively seeking new opportunities to leverage my skills in JavaScript and Python. I am particularly interested in roles that challenge me to grow and allow me to contribute to exciting projects. If you are looking for a dedicated developer with a keen eye for detail, I'd love to hear from you!
 
 ## 📈 GitHub Stats
-![Saqibullah's GitHub stats]()
+![Saqibullah's GitHub stats](https://github.com/Saqibullah-ui/Saqibullah-ui/tree/main)
 
 ## 📫 How to Reach Me
 
